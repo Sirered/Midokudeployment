@@ -77,10 +77,6 @@ __Book Type__:
     
 __Author__
 
-__Book Status__  
-1. Mostly prominent with Mangas/Manhwas
-2. Finished, Ongoing, Hiatus, Cancelled
-
 __Description / Summary__
 1. Alphanumeric, by the user
 

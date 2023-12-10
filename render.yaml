@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: Midoku
+    buildCommand: "./build.sh"
+    env: python
+    startCommand: "gunicorn Midoku.wsgi:application"
